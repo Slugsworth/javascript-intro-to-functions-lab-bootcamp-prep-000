@@ -19,9 +19,10 @@ function sayHiToGrandma(string){
   var lowercase = "hello";
   var grandma = "I love you, Grandma";
   if(string===lowercase){
-    return "I can\'t hear you"
-    
-  }
+    return "I can\'t hear you!"
+    } else if(string===uppercase){
+      return
+    }
   
   if
 }
